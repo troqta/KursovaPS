@@ -1,0 +1,15 @@
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\bin\Debug\Kursova.exe.config
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\bin\Debug\Kursova.exe
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\bin\Debug\Kursova.pdb
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.csprojResolveAssemblyReference.cache
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\MainWindow.g.cs
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\App.g.cs
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova_MarkupCompile.cache
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova_MarkupCompile.lref
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\MainWindow.baml
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.g.resources
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.Properties.Resources.resources
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.csproj.GenerateResource.cache
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.csproj.CoreCompileInputs.cache
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.exe
+C:\Users\Fast1r1s\source\repos\Kursova\Kursova\obj\Debug\Kursova.pdb
