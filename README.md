@@ -1,2 +1,1 @@
-PS
-My project
+My PS project
