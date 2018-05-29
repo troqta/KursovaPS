@@ -84,7 +84,7 @@ namespace Kursova
             }
             else if (randomNumber > 750 && randomNumber < 1000)
             {
-                return new SolidColorBrush(Colors.Black);
+                return new SolidColorBrush(Colors.Purple);
             }
             else
             {
@@ -112,11 +112,11 @@ namespace Kursova
             }
             else if (randomNumber > 750 && randomNumber < 1000)
             {
-                return new SolidColorBrush(Colors.Black);
+                return new SolidColorBrush(Colors.Purple);
             }
             else if (randomNumber > 1000 && randomNumber < 1250)
             {
-                return new SolidColorBrush(Colors.White);
+                return new SolidColorBrush(Colors.Orange);
             }
             else
             {
